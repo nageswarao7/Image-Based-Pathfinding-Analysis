@@ -74,6 +74,7 @@ pip install Pillow
     python app.py
     ```
 3.  The script will print the found coordinates and path details to the console, and the final visual output will be saved as `results_mapped.png`.
+   ![alt text](results_mapped.png)
 
 -----
 

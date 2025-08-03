@@ -8,8 +8,8 @@ The application follows a four-step process from image input to visual output.
 
 ### 1\. Image Processing & Node Detection
 
-The script first opens the input image ![alt text](Media.jpg) and scans it pixel by pixel to find the coordinates of specific colored dots. It identifies four key "dynamic nodes":
-
+The script first opens the input image (`Media.jpg`) and scans it pixel by pixel to find the coordinates of specific colored dots. It identifies four key "dynamic nodes":
+![alt text](Media.jpg)
   * **Left & Right Yellow dots**
   * **Left & Right Orange dots**
 
